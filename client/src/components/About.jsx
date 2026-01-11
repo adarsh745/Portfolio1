@@ -35,6 +35,9 @@ const About = () => {
             <p className="about-description">
               As a Technical Lead Board Member at IVC, I have mentored juniors and guided technical projects, honing my leadership and collaboration skills. I am passionate about solving complex problems and delivering seamless user experiences.
             </p>
+            <p className="about-description">
+              I am an active problem solver on <strong>LeetCode</strong>, where I have solved <strong>300+ coding challenges</strong>, focusing on Data Structures and Algorithms to sharpen my technical logic and efficiency.
+            </p>
           </motion.div>
 
           <motion.div 

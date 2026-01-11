@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FaGithub, FaLinkedin, FaDownload } from 'react-icons/fa';
+import { SiLeetcode } from 'react-icons/si';
 import './Hero.css';
 import profileImg from '../assets/profile.jpg';
 
@@ -65,6 +66,7 @@ const Hero = () => {
           >
              <a href="https://github.com/adarsh745" target="_blank" rel="noreferrer"><FaGithub /></a>
              <a href="https://linkedin.com/in/adarshjanjirala" target="_blank" rel="noreferrer"><FaLinkedin /></a>
+             <a href="https://leetcode.com/u/adarshjanjirala745/" target="_blank" rel="noreferrer"><SiLeetcode /></a>
           </motion.div>
         </div>
 
